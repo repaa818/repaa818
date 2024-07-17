@@ -1,3 +1,3 @@
 - 👋 Hi
 - 👀 I’m always watching you
-- ⚡ Fun fact: http://ra.repaa.ix.tc
+- ⚡ Fun fact: http://security.repaa.ix.tc
